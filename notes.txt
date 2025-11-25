@@ -1,0 +1,2 @@
+This file was created for Week13 Lab1 using the GitHub web GUI.
+I am adding this file to show I can create and commit new files in a repository.
